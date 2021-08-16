@@ -1,101 +1,46 @@
-### Hi there 👋
+<h1 align="center">Olá, bem vindo! 👋</h1>
 
-<!--
-**jorgeclenio/jorgeclenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify">
+	<p>Bem vindo ao meu perfil. Meu nome é Jorge Clênio, tenho 25 anos e sou formado em Engenharia da Computação. Gosto bastante da área de Segurança da Informação, porém estou migrando para desenvolvimento web/mobile. No momento estou estudando UX/UI design e React Native.</p>
+</div>
+	
+##
 
-Here are some ideas to get you started:
+<div align="center">
+  	<a href="https://github.com/jorgeclenio">
+  	<img height="190em" src="https://github-readme-stats.vercel.app/api?username=jorgeclenio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeclenio&layout=compact&langs_count=7&theme=dark"/>
+</div>
+	
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<h3> Abaixo algumas das tecnologias das quais possuo algum conhecimento.</h3>
+ 	<img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  	<img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  	<img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  	<img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  	<img align="center" alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  	<img align="center" alt="react-native" height="40" width="40" src="https://reactnative.dev/img/header_logo.svg">
+  	<img align="center" alt="arduino" heigth="40" width="40" src="https://github.com/detain/svg-logos/blob/master/svg/arduino-1.svg">
+  	<img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  	<img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  	<img align="center" alt="ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  	<img align="center" alt="linux" height="40" width="40" src="https://github.com/neilorangepeel/Free-Social-Icons/blob/master/Flat/SVG/Windows.svg">
+  	<img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  	<img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">	
+</div>
+	
+##
 
-<h1 align="center">Bem vindo ao meu perfil</h1>
-<h3 align="center">Welcome to my profile</h3>
-
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8" /> -->
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8" /> -->
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-<!-- <h4 align="center"> 
-	🚧  000 Outros 🚀 Under construction...  🚧
-</h4> 
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
-</p>
-
-<br>
-
-## :dart: About ##
-
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/000-outros
-
-# Access
-$ cd 000-outros
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
+</br>
+<div align="center"> 
+  <a href="https://www.youtube.com/c/jorgeclenio/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/clenio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  	<a href = "mailto:cleniocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  	<a href="https://www.linkedin.com/in/jorge-cl%C3%AAnio-97463b104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-## :memo: License ##
+  ![Snake animation](https://github.com/jorgeclenio/jorgeclenio/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0;
-
-<a href="#top">Voltar ao topo</a>
