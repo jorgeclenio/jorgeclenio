@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="000 Outros" />
-
-  &#xa0;
-
-  <!-- <a href="https://000outros.netlify.app">Demo</a> -->
-</div>
-
-<h1 align="center">000 Outros</h1>
+<h1 align="center">Bem vindo ao meu perfil</h1>
+<h3 align="center">Welcome to my profile</h3>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/000-outros?color=56BEB8">
@@ -106,4 +98,4 @@ Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" targe
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Voltar ao topo</a>
