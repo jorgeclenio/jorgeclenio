@@ -1,7 +1,7 @@
 <h1 align="center">Olá, bem vindo! 👋</h1>
 
 <div align="justify">
-	<p>Bem vindo ao meu perfil. Meu nome é Jorge Clênio, tenho 25 anos e sou graduado em Engenharia da Computação pela Faculdade Estácio de Belém. Gosto bastante da área de Segurança da Informação, porém estou migrando para desenvolvimento web/mobile. No momento estou estudando UX/UI design e React Native.</p>
+	<p>Bem vindo ao meu perfil. Meu nome é Jorge Clênio, tenho 25 anos e sou graduado em Engenharia da Computação pela Faculdade Estácio de Belém. Gosto bastante da área de Segurança da Informação, porém estou migrando para desenvolvimento web/mobile. No momento estou estudando HTML, CSS, UX/UI design e React Native.</p>
 </div>
 
 ##
