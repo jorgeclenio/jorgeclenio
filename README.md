@@ -1,4 +1,4 @@
-<h2 align="center">Olá, bem vindo!! 👋</h2>
+<h2 align="center">Olá, bem vindo!!! 👋</h2>
 
 <div align="center">
     <a href="https://github.com/jorgeclenio/">
@@ -37,7 +37,7 @@
 ## 
 
 <div align="center">
-    <h3>Total de visitas no perfil</h3>
+    <h4>Total de visitas no perfil</h4>
     <p><img src="https://profile-counter.glitch.me/jorgeclenio/count.svg" /></p>
 </div>
     
