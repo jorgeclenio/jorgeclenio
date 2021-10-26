@@ -1,4 +1,4 @@
-<h3 align="center">Olá, bem vindo!! 👋</h3>
+<h2 align="center">Olá, bem vindo!! 👋</h2>
 
 <div align="center">
     <a href="https://github.com/jorgeclenio/">
@@ -9,7 +9,7 @@
 ##
 
 <div align="center">
-	<h3> Abaixo algumas das tecnologias das quais possuo algum conhecimento</h3>
+	<h4> Abaixo algumas das tecnologias das quais possuo algum conhecimento</h4>
  	<img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   	<img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   	<img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
