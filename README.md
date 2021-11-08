@@ -1,4 +1,4 @@
-<h2 align="center">Olá, muito bem vindo!!! 👋</h2>
+<h2 align="center">Olá, muito bem vindo! 👋</h2>
 
 <div align="center">
     <a href="https://github.com/jorgeclenio/">
