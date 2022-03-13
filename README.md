@@ -1,15 +1,15 @@
-<h2 align="center">Olá, muito bem vindo! 👋</h2>
+<!-- <h2 align="center">Olá, muito bem vindo! 👋</h2> -->
 
 <div align="center">
     <a href="https://github.com/jorgeclenio/">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jorgeclenio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  	<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeclenio&layout=compact&langs_count=7&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jorgeclenio&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117""/>
+  	<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeclenio&layout=compact&langs_count=7&theme=react&bg_color=0D1117"/>
 </div>
 
-##
+## 
 
 <div align="center">
-	<h4> Abaixo algumas das tecnologias das quais possuo algum conhecimento</h4>
+    <h4> Abaixo algumas das tecnologias das quais possuo conhecimento! </h4>
  	<img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   	<img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   	<img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
@@ -18,13 +18,8 @@
   	<img align="center" alt="angular" height="40" width="40" src="https://github.com/detain/svg-logos/blob/master/svg/angular-icon-1.svg">
     <img align="center" alt="csharp" height="40" width="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg">
     <img align="center" alt="sql-server" height="40" width="40" src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg">    
-  	<img align="center" alt="arduino" heigth="40" width="40" src="https://github.com/detain/svg-logos/blob/master/svg/arduino-1.svg">
-  	<img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  	<img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  	<img align="center" alt="ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   	<img align="center" alt="windows" height="40" width="40" src="https://github.com/neilorangepeel/Free-Social-Icons/blob/master/Flat/SVG/Windows.svg">
   	<img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  	<img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
     
 ##
