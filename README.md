@@ -14,12 +14,10 @@
   	<img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   	<img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   	<img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  	<img align="center" alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-    
+  	<img align="center" alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">    
   	<img align="center" alt="angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="csharp" height="40" width="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg">
-    <img align="center" alt="sql-server" height="40" width="40" src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg">
-    
+    <img align="center" alt="sql-server" height="40" width="40" src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg">    
   	<img align="center" alt="arduino" heigth="40" width="40" src="https://github.com/detain/svg-logos/blob/master/svg/arduino-1.svg">
   	<img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   	<img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
