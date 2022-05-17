@@ -1,5 +1,7 @@
 <!-- <h2 align="center">Olá, muito bem vindo! 👋</h2> -->
 
+<!--
+
 <div align="center">
     <a href="https://github.com/jorgeclenio/">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jorgeclenio&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117""/>
@@ -7,6 +9,8 @@
 </div>
 
 ## 
+
+-->
 
 <div align="center">
     <h4> Abaixo algumas das tecnologias das quais possuo conhecimento! </h4>
