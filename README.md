@@ -26,7 +26,9 @@
 
 <br>
 <div>
-  ![Snake animation](https://github.com/jorgeclenio/jorgeclenio/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/jorgeclenio/jorgeclenio/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ##
