@@ -34,13 +34,6 @@
 ##
 
 <div>
-    <h4>Total de visitas no perfil</h4>
-    <p><img src="https://profile-counter.glitch.me/jorgeclenio/count.svg" /></p>
-</div>
-
-##
-
-<div>
     <h4>Contatos e redes sociais </h4>
   	<a href = "mailto:cleniocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   	<a href="https://www.linkedin.com/in/jorge-cl%C3%AAnio-97463b104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
