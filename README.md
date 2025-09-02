@@ -14,8 +14,8 @@
   	<img alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   	<img alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   	<img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  	<img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  	<img alt="angular" height="40" width="40" src="https://github.com/detain/svg-logos/blob/master/svg/angular-icon-1.svg">
+  	<img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">    
+  	<img alt="angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
     <img alt="csharp" height="40" width="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg">
     <img alt="sql-server" height="40" width="40" src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg">
   	<img alt="windows" height="40" width="40" src="https://github.com/neilorangepeel/Free-Social-Icons/blob/master/Flat/SVG/Windows.svg">
